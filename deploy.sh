@@ -2,4 +2,4 @@
 
 yarn build
 
-aws s3 cp build/ s3://simposio-web.cfrias.com.ar/ --recursive
+aws s3 cp build/ s3://simposioenushuaia.com.ar/ --recursive
